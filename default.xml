@@ -479,6 +479,6 @@
 <project name="sicknemesis/aosp_vendor_sicki" path="vendor/sicki" remote="gh" revision="SG-M" />
 <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision= "cm-13.0"/>
 <project name="sicknemesis/stock_kernel_hammerhead" path="kernel/lge/hammerhead" remote="gh" revision="SG-M" />
-<project name="marshmako/proprietary_vendor_lge" path="vendor/lge" remote="gh" revision="mm-6.0" />
+<project name="zephiK/proprietary_vendor_lge" path="vendor/lge" remote="gh" revision="mm6.0" />
 
 </manifest>
